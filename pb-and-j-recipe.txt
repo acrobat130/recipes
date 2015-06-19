@@ -1,0 +1,13 @@
+ingredents
+
+bread
+peanut butter
+jelly
+
+directions
+
+1. select two pieces of bread
+2. cover one side of one piece of bread with peanut butter
+3. cover one side of the other piece of bread with jelly
+4. stack the two pieces of bread so that the peanut butter and jelly touch
+5. enjoy!
